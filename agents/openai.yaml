@@ -1,0 +1,4 @@
+interface:
+  display_name: "书卡"
+  short_description: "拆解书籍与论文，生成中英分字体、渐变白面板知识卡及分享 PNG"
+  default_prompt: "使用 $read-cards 拆解资料：标题凝练有文韵，提问和复述贴近原书自然语言；精读保留原文与无标签中文译文，采用渐变白面板、四区分栏和小图标，生成 HTML 与 1080×1440 PNG。"

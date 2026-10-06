@@ -1,0 +1,302 @@
+# 《纳瓦尔宝典》· 前 5 张示例
+
+## 覆盖范围
+
+这份公开示例包含 5 个财富篇学习目标：财富与金钱、需求与规模、专长、持续学习、长期合作。英文短引文来自官网英文 EPUB，中文为本次自译与重构；不是全书卡片集合。
+
+## 模块索引
+
+- 财富创造：NAVAL-002、NAVAL-003、NAVAL-001、NAVAL-004、NAVAL-005
+
+## 财富创造
+
+### NAVAL-002｜资产生财，金钱为媒
+
+**一句话定义：** 财富是能持续创造收益的资产。
+
+**Survey｜概览（网页导览）**
+
+财富篇开头先区分财富、金钱与地位，为后续讨论价值创造和资产所有权建立概念。
+
+**Question｜提问**
+
+金钱、财富和地位，是一回事吗？
+
+**Read｜精读（逐字引用）**
+
+Seek wealth, not money or status. Wealth is having assets that earn while you sleep.
+
+求财富，不逐金钱与地位。财富，是你睡着时仍能生财的资产。
+
+**Recite｜复述**
+
+钱是交换的凭据，地位是社会排序。
+财富是你不在场时仍能运转的资产。
+别把账户余额或头衔当成全部财富。
+
+**参考答案**
+
+不是。按本书的区分，财富是能持续创造收益的资产；金钱是转移财富与时间的工具；地位是人在社会层级中的位置。
+
+**检查要点**
+
+- 指出财富强调资产的持续产出
+- 区分金钱的交换功能与地位的社会排序
+
+**Review｜复习**
+
+（留白，待填写）
+
+**适用边界**
+
+- 这是纳瓦尔在本章使用的财富定义，不能替代所有经济学或会计语境中的定义。
+- 【模型补充】“睡觉时仍能生财”强调产出不与本人逐时劳动绑定，不意味着资产无需维护或必然盈利。
+
+**来源范围：** excerpt
+**核对说明：** 英文短引文已与文件夹中的官网英文 EPUB 核对；译文为本次自译，复述为相应小节的归纳。这里核对的是编著书中的文本，未另核验其引用的访谈录音。
+
+**来源**
+
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜财富篇／财富如何创造 · 财富定义｜逐字引用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：original、original_translation｜支持程度：direct｜[EPUB 章节 11] Building Wealth / Understand How Wealth Is Created；How to Get Rich 首条及 What’s the difference between wealth and money? 段；完整提取文件约第 394–560 行；中文为自译，卡面中文小节名为阅读定位，不声称是出版译本章节名。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Understand How Wealth Is Created；How to Get Rich 首条及 What’s the difference between wealth and money? 段；完整提取文件约第 394–560 行｜原文转述｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：definition、survey、reconstruction、answer、answer_points｜支持程度：direct｜归纳该小节的作者观点，不把主张本身当成实证验证。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Understand How Wealth Is Created；How to Get Rich 首条及 What’s the difference between wealth and money? 段；完整提取文件约第 394–560 行｜延伸应用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：question、boundaries、application｜支持程度：inference｜问题、练习与误用提醒由本次卡片设计提出；边界区分原文范围与明确标出的模型补充。
+
+【模型设计的练习】列出自己最近三项工作，分别标注它主要带来当期收入、可重复使用的成果，还是社会认可；只做分类，不据此直接作投资决定。
+
+**关联卡片：** NAVAL-003
+
+**标签：** 财富、金钱、资产、地位
+
+### NAVAL-003｜应需而创，规模成势
+
+**一句话定义：** 满足尚未被满足的需要，再让更多人受益。
+
+**Survey｜概览（网页导览）**
+
+财富篇从财富的定义转向价值创造：发现社会想要却尚难获得的东西，并设法扩大供给。
+
+**Question｜提问**
+
+做出了有用的东西，为什么还不够？
+
+**Read｜精读（逐字引用）**
+
+You will get rich by giving society what it wants but does not yet know how to get. At scale.
+
+将社会想要、却尚不知如何获得的东西，规模化地交付，财富由此而来。
+
+**Recite｜复述**
+
+找到人们想要、却还难以获得的东西。
+做出你有能力提供的产品或服务。
+再把它规模化，交付给更多人。
+
+**参考答案**
+
+按本章的主张，还需要满足尚未被满足的真实需求，并找到规模化交付的方法。只做出一件东西，与持续让许多人获得它，是两个不同的问题。
+
+**检查要点**
+
+- 识别想要但尚不易获得的需求
+- 说明有用的成果还需要规模化交付
+
+**Review｜复习**
+
+（留白，待填写）
+
+**适用边界**
+
+- 原文讨论财富创造的一个思路，不是任何新产品都能成功的实证结论。
+- 【模型补充】有需求不等于一定有人愿意付费；扩张仍需检验质量、成本和真实反馈。
+
+**来源范围：** excerpt
+**核对说明：** 英文短引文已与文件夹中的官网英文 EPUB 核对；译文为本次自译，复述为相应小节的归纳。这里核对的是编著书中的文本，未另核验其引用的访谈录音。
+
+**来源**
+
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜财富篇／财富如何创造 · 需求与规模｜逐字引用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：original、original_translation｜支持程度：direct｜[EPUB 章节 11] Building Wealth / Understand How Wealth Is Created；How to Get Rich 的社会需求条目，以及 Society will pay you 和 Then, you have to figure out how to scale it 段；完整提取文件约第 410–576 行；中文为自译，卡面中文小节名为阅读定位，不声称是出版译本章节名。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Understand How Wealth Is Created；How to Get Rich 的社会需求条目，以及 Society will pay you 和 Then, you have to figure out how to scale it 段；完整提取文件约第 410–576 行｜原文转述｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：definition、survey、reconstruction、answer、answer_points｜支持程度：direct｜归纳该小节的作者观点，不把主张本身当成实证验证。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Understand How Wealth Is Created；How to Get Rich 的社会需求条目，以及 Society will pay you 和 Then, you have to figure out how to scale it 段；完整提取文件约第 410–576 行｜延伸应用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：question、boundaries、application｜支持程度：inference｜问题、练习与误用提醒由本次卡片设计提出；边界区分原文范围与明确标出的模型补充。
+
+【模型设计的练习】选一个经常被人抱怨的问题，写出需求、你能交付的成果，以及交付十次时哪些步骤仍需重复劳动。
+
+**关联卡片：** NAVAL-002、NAVAL-001
+
+**标签：** 价值创造、需求、规模化
+
+### NAVAL-001｜循趣深耕，磨砺专长
+
+**一句话定义：** 天赋为根，好奇为径，热爱为源。
+
+**Survey｜概览（网页导览）**
+
+财富篇“寻找并培养专长”从个人特质、成长经历和真实好奇心解释专长的来源。
+
+**Question｜提问**
+
+我该怎样找到值得长期投入的专长？
+
+**Read｜精读（逐字引用）**
+
+Specific knowledge is found much more by pursuing your innate talents, your genuine curiosity, and your passion.
+
+循着天赋、真切的好奇与热爱，专长更易寻得。
+
+**Recite｜复述**
+
+找到你有天赋、真正好奇并热爱的事。
+继续钻研，在实践中磨练自己的专长。
+别只因为某个职业热门就去学。
+
+**参考答案**
+
+从你有天赋、真正好奇并热爱的事里寻找方向，再通过实践磨练；不要只看职业是否热门。
+
+**检查要点**
+
+- 指出真实兴趣或自然优势
+- 指出需要磨练，而非仅追逐热门
+
+**Review｜复习**
+
+（留白，待填写）
+
+**适用边界**
+
+- 这里的“专长”依本书 specific knowledge 的语境使用，并非所有领域对专业知识的统一定义。
+- 【模型补充】有兴趣不等于已经有能力或市场需求；仍需用作品、实践和反馈检验。
+
+**来源范围：** excerpt
+**核对说明：** 英文短引文已与文件夹中的官网英文 EPUB 核对；译文为本次自译，复述为相应小节的归纳。这里核对的是编著书中的文本，未另核验其引用的访谈录音。
+
+**来源**
+
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜财富篇／积累专长 · 好奇心段｜逐字引用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：original、original_translation｜支持程度：direct｜[EPUB 章节 11] Building Wealth / Find and Build Specific Knowledge；Specific knowledge is found much more 段及 unique traits / hone it 的前文；完整提取文件约第 578–652 行；中文为自译，卡面中文小节名为阅读定位，不声称是出版译本章节名。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Find and Build Specific Knowledge；Specific knowledge is found much more 段及 unique traits / hone it 的前文；完整提取文件约第 578–652 行｜原文转述｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：definition、survey、reconstruction、answer、answer_points｜支持程度：direct｜归纳该小节的作者观点，不把主张本身当成实证验证。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Find and Build Specific Knowledge；Specific knowledge is found much more 段及 unique traits / hone it 的前文；完整提取文件约第 578–652 行｜延伸应用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：question、boundaries、application｜支持程度：inference｜问题、练习与误用提醒由本次卡片设计提出；边界区分原文范围与明确标出的模型补充。
+
+【模型设计的练习】记下三件你会主动钻研的事，选一件做成小作品，记录哪些步骤让你愿意继续深入。
+
+**关联卡片：** NAVAL-003、NAVAL-004
+
+**标签：** 专长、好奇心、持续学习
+
+### NAVAL-004｜深植根基，学而日新
+
+**一句话定义：** 基础扎实，方能在变化中持续求知。
+
+**Survey｜概览（网页导览）**
+
+“寻找并培养专长”后半节把专长延伸为学习能力：基础帮助进入新领域，深入学习避免只有广度。
+
+**Question｜提问**
+
+行业不断变化，我该优先练什么本领？
+
+**Read｜精读（逐字引用）**
+
+The most important skill for getting rich is becoming a perpetual learner.
+
+致富最重要的本领，是终身学习。
+
+**Recite｜复述**
+
+先练好算术和清楚表达等基本功。
+遇到不懂的内容，就回头补基础。
+再在真正感兴趣的领域持续深钻。
+
+**参考答案**
+
+优先培养持续学习的能力，以算术、理解和清楚表达等基本功为基础。遇到知识缺口先补前置知识，再在真正感兴趣的少数领域深入，而不是只依靠早年取得的文凭。
+
+**检查要点**
+
+- 指出学习能力与基础能力的重要性
+- 说明补前置知识并保持少数领域的深度
+
+**Review｜复习**
+
+（留白，待填写）
+
+**适用边界**
+
+- 原文同时强调深入一两件事；终身学习不等于不断换题、只学表面。
+- 【模型补充】快速学习的主张不能替代某些专业要求的长期训练或必要资格。
+
+**来源范围：** excerpt
+**核对说明：** 英文短引文已与文件夹中的官网英文 EPUB 核对；译文为本次自译，复述为相应小节的归纳。这里核对的是编著书中的文本，未另核验其引用的访谈录音。
+
+**来源**
+
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜财富篇／积累专长 · 终身学习｜逐字引用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：original、original_translation｜支持程度：direct｜[EPUB 章节 11] Building Wealth / Find and Build Specific Knowledge；The most important skill、Foundations are super important、Basic arithmetic 与 You do need to be deep 段；完整提取文件约第 642–652 行；中文为自译，卡面中文小节名为阅读定位，不声称是出版译本章节名。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Find and Build Specific Knowledge；The most important skill、Foundations are super important、Basic arithmetic 与 You do need to be deep 段；完整提取文件约第 642–652 行｜原文转述｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：definition、survey、reconstruction、answer、answer_points｜支持程度：direct｜归纳该小节的作者观点，不把主张本身当成实证验证。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Find and Build Specific Knowledge；The most important skill、Foundations are super important、Basic arithmetic 与 You do need to be deep 段；完整提取文件约第 642–652 行｜延伸应用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：question、boundaries、application｜支持程度：inference｜问题、练习与误用提醒由本次卡片设计提出；边界区分原文范围与明确标出的模型补充。
+
+【模型设计的练习】找一段读不懂的专业内容，列出阻碍理解的一个基础概念，先补这个概念，再返回原文用自己的话解释。
+
+**关联卡片：** NAVAL-001、NAVAL-005
+
+**标签：** 终身学习、基础、专长
+
+### NAVAL-005｜择伴长行，信任生息
+
+**一句话定义：** 让合作与信誉在岁月中累积。
+
+**Survey｜概览（网页导览）**
+
+“与长期伙伴做长期的事”将复利从资本推广到合作、信誉与相互信任，强调选对人与事后持续投入。
+
+**Question｜提问**
+
+为什么值得和可靠的人长期合作？
+
+**Read｜精读（逐字引用）**
+
+Sticking with it for decades is really how you make the big returns in your relationships and in your money.
+
+关系与财富的丰厚回报，正来自数十年的坚持。
+
+**Recite｜复述**
+
+找到合适的事和值得信任的人。
+长久合作，让信誉和默契不断积累。
+熟悉彼此后，协作也会更顺畅。
+
+**参考答案**
+
+本章把复利延伸到关系和信誉。与诚实可靠的人持续合作，信任和相互了解会逐步积累，反复协商的摩擦随之减少，也更容易把后来的机会交给彼此。
+
+**检查要点**
+
+- 指出复利不仅用于资本，也用于信任和信誉
+- 说明长期合作通过积累了解、信任和机会产生价值
+
+**Review｜复习**
+
+（留白，待填写）
+
+**适用边界**
+
+- 原文以找到合适的事和合适的人为前提，不是要求所有合作都永久持续。
+- 【模型补充】持续失信或方向明显不合适时，不能只因已投入多年而继续；关系回报也不能直接当作可计算的固定利率。
+
+**来源范围：** excerpt
+**核对说明：** 英文短引文已与文件夹中的官网英文 EPUB 核对；译文为本次自译，复述为相应小节的归纳。这里核对的是编著书中的文本，未另核验其引用的访谈录音。
+
+**来源**
+
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜财富篇／长期合作 · 关系复利｜逐字引用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：original、original_translation｜支持程度：direct｜[EPUB 章节 11] Building Wealth / Play Long-Term Games with Long-Term People；When you find the right thing to do 段，以及信任、信誉与 Elad Gil 合作例子；完整提取文件约第 654–686 行；中文为自译，卡面中文小节名为阅读定位，不声称是出版译本章节名。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Play Long-Term Games with Long-Term People；When you find the right thing to do 段，以及信任、信誉与 Elad Gil 合作例子；完整提取文件约第 654–686 行｜原文转述｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：definition、survey、reconstruction、answer、answer_points｜支持程度：direct｜归纳该小节的作者观点，不把主张本身当成实证验证。
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness｜[EPUB 章节 11] Building Wealth / Play Long-Term Games with Long-Term People；When you find the right thing to do 段，以及信任、信誉与 Elad Gil 合作例子；完整提取文件约第 654–686 行｜延伸应用｜https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103.epub｜支持字段：question、boundaries、application｜支持程度：inference｜问题、练习与误用提醒由本次卡片设计提出；边界区分原文范围与明确标出的模型补充。
+
+【模型设计的练习】回顾一段合作关系，写下对方用行动建立信任的例子，以及你可以怎样更可靠地履行下一次承诺。
+
+**关联卡片：** NAVAL-004
+
+**标签：** 长期合作、复利、信任、信誉
+
+## 章节覆盖
+
+- NAVAL-EPUB｜Building Wealth / Understand How Wealth Is Created｜read｜NAVAL-002、NAVAL-003｜示例所用小节已读；展示与本示例学习目标有关的卡片。
+- NAVAL-EPUB｜Building Wealth / Find and Build Specific Knowledge｜read｜NAVAL-001、NAVAL-004｜示例所用小节已读；展示与本示例学习目标有关的卡片。
+- NAVAL-EPUB｜Building Wealth / Play Long-Term Games with Long-Term People｜read｜NAVAL-005｜示例所用小节已读；展示与本示例学习目标有关的卡片。
